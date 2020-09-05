@@ -1,1 +1,1 @@
-# qa_open
+# question answering (open, closed)
