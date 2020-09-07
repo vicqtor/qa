@@ -16,5 +16,7 @@ df = filter_paragraphs(df)
 cdqa_pipeline = QAPipeline(reader = str(respomodelsdir) + '/bert_qa.joblib')
 cdqa_pipeline.fit_retriever(q = df) # cdqa_pipeline.fit_reader('path to squad like dataset . json')
 prediction = cdqa_pipeline.predict(q = query, n_prediction = N) # cdqa_pipeline.dump_reader('path to save . joblib') # save reader model
-query, answer, title, paragraph = 'query: {}\n'.format(query), 'answer: {}\n'.format(prediction[0]), 'title: {}\n'.format(prediction[1]), 'paragraph: {}\n'.format(prediction[2])
-quiz, answer = query, (query, answer, title, paragraph)
+
+query, answer, title, paragraph = 
+'query: {}\n'.format(query), 'answer: {}\n'.format(prediction[0]), 'title: {}\n'.format(prediction[1]), 'paragraph: {}\n'.format(prediction[2])
+
