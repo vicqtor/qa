@@ -1,1 +1,2 @@
+download these requirements into this directory;
 https://github.com/cdqa-suite/cdQA/releases/tag/bert_qa
