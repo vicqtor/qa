@@ -1,2 +1,2 @@
-download these requirements into this directory;
+download these requirements into this directory
 https://github.com/cdqa-suite/cdQA/releases/tag/distilbert_qa
