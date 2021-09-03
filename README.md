@@ -1,1 +1,1 @@
-# question answering (open, closed)
+# open/closed question answering
