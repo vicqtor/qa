@@ -3,6 +3,7 @@
 <h4 align='left'> present: closed
 <br>
 using CDQA
+<hr>
 
 ```python3
 python3 -m qa_index
